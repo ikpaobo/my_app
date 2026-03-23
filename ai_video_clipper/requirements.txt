@@ -1,0 +1,8 @@
+openai-whisper
+moviepy
+opencv-python
+transformers
+torch
+gradio
+numpy
+imageio-ffmpeg
